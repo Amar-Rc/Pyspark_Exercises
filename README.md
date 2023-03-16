@@ -1,4 +1,4 @@
-# Pyspark_Exercises
+# Pyspark Exercises
 
 The following six exercises has been crafted that will resemble some typical situations that Spark developers face daily when building their pipelines: these will help to assess the skills above.
 
